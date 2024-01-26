@@ -15,4 +15,7 @@
 
 # Initialize an outer loop to iterate over numbers from 0 to 14
 for num in range(15):
+    
+    # Initialize an inner loop to iterate over a range up to the current number 'num'
+    for i in range(num):
    
