@@ -18,4 +18,8 @@ for num in range(15):
     
     # Initialize an inner loop to iterate over a range up to the current number 'num'
     for i in range(num):
+        
+        # Print the current number 'num' with a space at the end
+        print(num, end=" ")
+        
    
