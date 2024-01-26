@@ -21,5 +21,8 @@ for num in range(15):
         
         # Print the current number 'num' with a space at the end
         print(num, end=" ")
-        
+
+    # Move to the next line after printing the numbers for the current 'num'
+    print("\n")
+     
    
